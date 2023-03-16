@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main - main functionentry point
- * REturn: always 0 
+ * Return: always 0
  */
-int ,main(void)
+int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 	printf("Size of an int: %lu byte(s)\n", sizeof(int));
