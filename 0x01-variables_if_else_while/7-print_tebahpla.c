@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 /**
- * main - main value or function
- * REturn: always 0
+ * main - The main value returns successful when executed
+ * Return: always 0
  */
 
 int main(void)
