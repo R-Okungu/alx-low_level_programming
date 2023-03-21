@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * main - returns successful when executed
  * print_alphabet - prints the alphabet  allocated
  * Return: always 0
  */
