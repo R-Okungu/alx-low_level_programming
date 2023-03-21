@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - returns successful when executed
- * print_alphabet - prints the alphabet  allocated
- * Return: always 0
+ * print_alphabet - Prints the English alphabet in lowercase.
  */
 
 void print_alphabet(void)
