@@ -1,4 +1,10 @@
 
+os
 or(x + '0');
-      |   ^~~~~~~~
+      n file included from 3-print_numbers.c:1:
+main.h:4:5: error: old-style parameter declarations in prototyped function definition
+    4 | int _putchar(char c)
+      |     ^~~~~~~~
+3-print_numbers.c:17: error: expected ‘{’ at end of input
+   17 | }|   ^~~~~~~~
 cc1: all warnings being treated as errorsis
