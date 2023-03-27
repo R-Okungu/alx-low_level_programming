@@ -1,6 +1,12 @@
 #include "main.h"
 #include<stdio.h>
 
+/**
+ * print_rev - prints a string in reverse order
+ * @s: the parameter to be used
+ * Return: nothing
+ */
+
 void print_rev(char *s)
 {
 	int c = 0;
