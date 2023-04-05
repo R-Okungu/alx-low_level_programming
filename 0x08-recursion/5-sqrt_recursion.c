@@ -3,8 +3,6 @@
 
 /**
  * _sqrt_recursion - natural square root of a number
- * _sqrt - calculates natural square root
- * @i: iterate number
  * @n: the number
  * Return: a value when successful
  */
@@ -13,6 +11,12 @@ int _sqrt_recursion(int n)
 {
 	return (_sqrt(n, 1));
 }
+/**
+ * _sqrt - calculates natural square root
+ * @n: the number to calculate the squareroot
+ * @i: iterate number
+ * Return: natural squareroot
+ */
 int _sqrt(int n, int i)
 {
 	int sqrt = i * i;
